@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#0c0d0c"/>
+  <!-- rear cube -->
+  <polygon points="22,4 28,7 22,10 16,7" fill="#eceee9"/>
+  <polygon points="16,7 22,10 22,16 16,13" fill="#8fa084"/>
+  <polygon points="28,7 22,10 22,16 28,13" fill="#eceee9"/>
+  <!-- main cube -->
+  <polygon points="15,8 23,12 15,16 7,12" fill="#eceee9"/>
+  <polygon points="7,12 15,16 15,26 7,22" fill="#8fa084"/>
+  <polygon points="23,12 15,16 15,26 23,22" fill="#8fa084"/>
+  <!-- front-left cube -->
+  <polygon points="10,16 16,19 10,22 4,19" fill="#eceee9"/>
+  <polygon points="4,19 10,22 10,28 4,25" fill="#8fa084"/>
+  <polygon points="16,19 10,22 10,28 16,25" fill="#eceee9"/>
+</svg>
